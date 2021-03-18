@@ -147,7 +147,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 3em;
 		line-height: 1.5em;
 	}
 
@@ -2624,7 +2624,6 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			font-size: 40px;
 			color: #ffffff;
 		}
 
@@ -3079,7 +3078,7 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+				background-image: url("images/overlay.png"), url("../../images/mountains.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
